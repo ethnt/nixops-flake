@@ -40,7 +40,7 @@
 
     nixops_1_7-plugin-aws = {
       # Commit pin from branch: master, v1.0.0 tag
-      url = "github:NixOS/nixops-aws?rev=5a267e66de4b239f640bbbf43bb41bd72f2cbee3";
+      url = "github:NixOS/nixops-aws?rev=bc9de10b77aa74c9b245fd533f829e4307b984e8";
       flake = false;
     };
 

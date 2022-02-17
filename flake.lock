@@ -34,17 +34,17 @@
     "nixops_1_7-plugin-aws": {
       "flake": false,
       "locked": {
-        "lastModified": 1566958904,
-        "narHash": "sha256-1Uko/u1Do8QdwMiG6NSCxe7tivp47bfjZKY9zfTVxsU=",
+        "lastModified": 1644160003,
+        "narHash": "sha256-6ZPnUZw4DpxRMx1eX268Wl6m+yIa6xEeAfiYSXlXGos=",
         "owner": "NixOS",
         "repo": "nixops-aws",
-        "rev": "5a267e66de4b239f640bbbf43bb41bd72f2cbee3",
+        "rev": "bc9de10b77aa74c9b245fd533f829e4307b984e8",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
         "repo": "nixops-aws",
-        "rev": "5a267e66de4b239f640bbbf43bb41bd72f2cbee3",
+        "rev": "bc9de10b77aa74c9b245fd533f829e4307b984e8",
         "type": "github"
       }
     },
